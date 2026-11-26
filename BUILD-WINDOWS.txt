@@ -1,0 +1,42 @@
+Organizer Atmor 1.5.2 — código-fonte
+
+O pacote Windows é um executável autônomo. API Nexus GraphQL, ajuda, regras
+padrão e avisos de licença são incorporados ao programa. Preserve a subpasta
+vendor e os arquivos referenciados por resources.rc na hora de compilar.
+
+Compilação cruzada com Zig 0.13.0, na pasta extraída do ZIP de código-fonte:
+zig rc /fo resources.res resources.rc
+zig c++ -target x86_64-windows-gnu -std=c++17 -O2 -municode -Wl,--subsystem,windows -static main.cpp resources.res -lcomdlg32 -lcomctl32 -lshell32 -lole32 -luuid -luser32 -lgdi32 -lwinhttp -lversion -ladvapi32 -o Organizer-Atmor.exe
+
+Testes genéricos (g++ C++17), na pasta extraída do ZIP de código-fonte:
+g++ -std=c++17 -O2 test-final.cpp -o test-final
+./test-final
+g++ -std=c++17 -O2 test-diagnostics.cpp -o test-diagnostics
+./test-diagnostics
+g++ -std=c++17 -O2 test-compatibility.cpp -o test-compatibility
+./test-compatibility
+
+Teste adicional com DLL de teste, sem executá-la:
+zig c++ -target x86_64-windows-gnu -shared fonte-fixture.cpp -o fixture-test.dll
+./test-diagnostics fixture-test.dll
+./test-compatibility fixture-test.dll
+
+Regressão do estado da interface (Python 3 + g++):
+python3 test-ui-state.py
+Simula eventos Win32; não substitui validação interativa no Windows.
+
+Regressão da classificação:
+g++ -std=c++17 -O2 test-classification.cpp -o test-classification
+./test-classification
+
+Diagnóstico completo:
+g++ -std=c++17 -O2 test-full-diagnostics.cpp -o test-full-diagnostics
+./test-full-diagnostics
+
+Logo: adicione 101 ICON "logo.ico" a resources.rc antes de compilar o recurso.
+Teste i18n: g++ -std=c++17 -O2 test-i18n.cpp -o test-i18n && ./test-i18n
+
+Nexus GraphQL regression: g++ -std=c++17 -O2 test-online.cpp -o test-online
+./test-online
+JSON dependency: vendor/nlohmann/json.hpp v3.11.3 (MIT, license included).
+Keep the vendor folder alongside main.cpp when building.

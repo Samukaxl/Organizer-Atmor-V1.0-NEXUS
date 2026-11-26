@@ -1,0 +1,182 @@
+# Portuguese source (C++ escapes) | English | Español
+Seus mods em ordem. Com prévia, backup e controle.	Your mods in order. Preview, backup and control.	Tus mods en orden. Vista previa, copia y control.
+01   Perfil do Mod Organizer 2	01   Mod Organizer 2 profile	01   Perfil de Mod Organizer 2
+02   Pasta dos mods — a pasta mods da mesma instância do MO2	02   Mods folder — use the same MO2 instance	02   Carpeta de mods — de la misma instancia de MO2
+Buscar modlist.txt	Browse modlist.txt	Buscar modlist.txt
+Buscar pasta...	Browse folder...	Buscar carpeta...
+Consultar metadados na API Nexus (opcional)	Check Nexus API metadata (optional)	Consultar metadatos en la API Nexus (opcional)
+Agrupar em 9 categorias (move mods entre grupos)	Group into 9 categories (moves mods between groups)	Agrupar en 9 categorías (mueve mods entre grupos)
+Como funciona	How it works	Cómo funciona
+1. Gerar prévia	1. Preview	1. Vista previa
+2. Aplicar com backup	2. Apply with backup	2. Aplicar con copia
+Restaurar backup	Restore backup	Restaurar copia
+Editar categorias	Edit categories	Editar categorías
+Ajuda	Help	Ayuda
+Detectar instalação	Detect installation	Detectar instalación
+Diagnóstico completo	Diagnostics	Diagnóstico
+Importar crash / log	Import crash / log	Importar crash / registro
+Localizar exe...	Locate exe...	Localizar exe...
+Detectando Skyrim automaticamente...	Detecting Skyrim automatically...	Detectando Skyrim automáticamente...
+Caminhos e opções	Paths and options	Rutas y opciones
+Fechar opções	Close options	Cerrar opciones
+9 GRUPOS COMPACTOS\r\nDublagens → Legendas → Prioridades finais · Nemesis / Pandora Output por último	9 COMPACT GROUPS\r\nVoice translations → Text translations → Final overrides · Nemesis / Pandora Output last	9 GRUPOS COMPACTOS\r\nDoblajes → Traducciones → Prioridades finales · Nemesis / Pandora Output al final
+Prévia da organização	Organization preview	Vista previa de organización
+Copiar	Copy	Copiar
+Pronto  •  Análise local  •  Backup antes de aplicar	Ready  •  Local analysis  •  Backup before applying	Listo  •  Análisis local  •  Copia antes de aplicar
+Selecione o arquivo modlist.txt do perfil ativo	Select the active profile's modlist.txt	Selecciona el modlist.txt del perfil activo
+PRONTO PARA ORGANIZAR\r\n\r\n1. Confirme o perfil acima e clique em Gerar prévia.\r\n2. Confira o resultado e feche o MO2.\r\n3. Aplique com backup e reabra o MO2.\r\n\r\nA organização usa nove grupos; dublagens, legendas e prioridades finais ficam no fim.\r\nA sequência dentro de cada grupo é preservada. Nada é ativado sozinho.\r\n\r\nPrecisa corrigir caminhos? Abra Caminhos e opções.\r\nQuer investigar dependências ou DLLs? Use Diagnóstico completo.\r\n\r\nSe uma versão anterior alterou sua ordem, restaure primeiro o backup desejado.	READY TO ORGANIZE\r\n\r\n1. Confirm your profile and select Preview.\r\n2. Review the proposal and close MO2.\r\n3. Apply with backup, then reopen MO2.\r\n\r\nNine groups; voice and text translations and final overrides go last.\r\nOrder within each group is preserved. Mods are never enabled automatically.\r\n\r\nUse Paths and options to change locations.\r\nOpen Diagnostics to check dependencies and DLLs.\r\n\r\nIf an earlier release changed your order, restore your preferred backup first.	LISTO PARA ORGANIZAR\r\n\r\n1. Confirma tu perfil y selecciona Vista previa.\r\n2. Revisa la propuesta y cierra MO2.\r\n3. Aplica con copia y vuelve a abrir MO2.\r\n\r\nNueve grupos; doblajes, traducciones y prioridades finales van al final.\r\nSe conserva el orden dentro de cada grupo. No se activan mods automáticamente.\r\n\r\nUsa Rutas y opciones para cambiar ubicaciones.\r\nAbre Diagnóstico para revisar dependencias y DLLs.\r\n\r\nSi una versión anterior cambió tu orden, restaura primero la copia deseada.
+Relatório copiado. Ele pode conter caminhos pessoais; revise antes de publicar.	Report copied. It may contain personal paths; review before sharing.	Informe copiado. Puede contener rutas personales; revísalo antes de compartirlo.
+Sem memoria para copiar o relatorio.	Not enough memory to copy the report.	Memoria insuficiente para copiar el informe.
+Falha ao preparar copia.	Could not prepare the copy.	No se pudo preparar la copia.
+Area de transferencia ocupada. Tente novamente.	Clipboard is busy. Try again.	El portapapeles está ocupado. Inténtalo de nuevo.
+Nao foi possivel copiar o relatorio.	Could not copy the report.	No se pudo copiar el informe.
+Nao foi possivel verificar se o MO2 esta fechado.	Could not check whether MO2 is closed.	No se pudo comprobar si MO2 está cerrado.
+Falha ao consultar processos.	Could not inspect running processes.	No se pudieron consultar los procesos.
+Feche o Mod Organizer 2 antes de aplicar ou restaurar. Se abriu pelo MO2, desbloqueie a janela e feche o MO2; mantenha esta ferramenta aberta.	Close Mod Organizer 2 before applying or restoring. If launched from MO2, unlock and close MO2; keep this tool open.	Cierra Mod Organizer 2 antes de aplicar o restaurar. Si abriste desde MO2, desbloquéalo y ciérralo; mantén esta herramienta abierta.
+Escolha original-modlist.txt dentro de um backup	Select original-modlist.txt inside a backup	Selecciona original-modlist.txt dentro de una copia
+Escolha modlist.txt do perfil ativo	Select the active profile's modlist.txt	Selecciona el modlist.txt del perfil activo
+Nao foi possivel abrir o seletor do Windows. Cole o caminho diretamente no campo Pasta mods.	Could not open the Windows picker. Paste the path into the Mods folder field.	No se pudo abrir el selector de Windows. Pega la ruta en Carpeta de mods.
+Falha ao preparar a selecao de pasta.	Could not prepare the folder picker.	No se pudo preparar el selector de carpetas.
+Selecione a pasta mods do Mod Organizer 2	Select the Mod Organizer 2 mods folder	Selecciona la carpeta mods de Mod Organizer 2
+Selecionar esta pasta	Select this folder	Seleccionar esta carpeta
+Falha ao abrir a pasta. Voce tambem pode colar seu caminho no campo Pasta mods.	Could not open the folder. You can paste its path into Mods folder.	No se pudo abrir la carpeta. Puedes pegar su ruta en Carpeta de mods.
+Nao foi possivel obter a pasta selecionada.	Could not obtain the selected folder.	No se pudo obtener la carpeta seleccionada.
+Escolha uma pasta local ou de rede acessivel.	Select an accessible local or network folder.	Selecciona una carpeta local o de red accesible.
+Selecione o crash ou log SKSE da ultima tentativa	Select the latest crash or SKSE log	Selecciona el último registro de crash o SKSE
+Selecione SkyrimSE.exe da instalacao usada no MO2	Select SkyrimSE.exe used by MO2	Selecciona el SkyrimSE.exe usado por MO2
+Nao foi possivel ler a versao do executavel selecionado.	Could not read the selected executable version.	No se pudo leer la versión del ejecutable.
+Falha ao ler versao do Skyrim.	Could not read the Skyrim version.	No se pudo leer la versión de Skyrim.
+Recurso de versao invalido.	Invalid version resource.	Recurso de versión no válido.
+Esta verificacao e para Skyrim Special Edition. Selecione SkyrimSE.exe.	This check is for Skyrim Special Edition. Select SkyrimSE.exe.	Esta comprobación es para Skyrim Special Edition. Selecciona SkyrimSE.exe.
+Aguarde a deteccao automatica ou escolha uma instalacao na lista Skyrim. Se nao aparecer, use Localizar exe.	Wait for detection or select a Skyrim installation. If missing, use Locate exe.	Espera la detección o selecciona una instalación. Si no aparece, usa Localizar exe.
+Selecione o perfil e a pasta mods primeiro.	Select the profile and mods folder first.	Selecciona primero el perfil y la carpeta mods.
+Conferindo runtime, dependencias dos plugins e DLLs SKSE...	Checking runtime, plugin dependencies and SKSE DLLs...	Comprobando versión, dependencias y DLLs de SKSE...
+Log inacessivel ou maior que 8 MiB.	Log inaccessible or larger than 8 MiB.	Registro inaccesible o mayor de 8 MiB.
+Detectando perfil MO2, instalacoes Steam/GOG e versao do Skyrim...	Detecting MO2 profiles, Steam/GOG installations and Skyrim version...	Detectando perfiles de MO2, instalaciones Steam/GOG y versión de Skyrim...
+versao ilegivel	unreadable version	versión ilegible
+Skyrim não encontrado. Use Localizar exe para indicar uma instalação fora dos caminhos conhecidos.	Skyrim not found. Use Locate exe to select another location.	Skyrim no encontrado. Usa Localizar exe para seleccionar otra ubicación.
+Mais de uma instalação: escolha o Skyrim correto na lista acima.	Multiple installations: select the correct Skyrim above.	Varias instalaciones: selecciona el Skyrim correcto arriba.
+Previa preservada. Feche o MO2 e clique em 2. Aplicar com backup.	Preview preserved. Close MO2 and select 2. Apply with backup.	Vista previa conservada. Cierra MO2 y selecciona 2. Aplicar con copia.
+ perfil(is) e 	 profile(s) and 	 perfil(es) y 
+ instalação(ões) encontrados. Confira a seleção.	 installation(s) found. Check your selection.	 instalación(es) encontradas. Revisa la selección.
+Lendo arquivos, classificando mods e conferindo separadores...	Reading files, classifying mods and checking separators...	Leyendo archivos, clasificando mods y revisando separadores...
+Escolha o modlist.txt do perfil.	Select the profile's modlist.txt.	Selecciona el modlist.txt del perfil.
+Selecione o arquivo modlist.txt do perfil.	Select the profile's modlist.txt file.	Selecciona el archivo modlist.txt del perfil.
+Nao foi possivel criar backup exclusivo.	Could not create a unique backup.	No se pudo crear una copia única.
+Arquivo temporario existente. Revise: 	Temporary file already exists. Review: 	Ya existe el archivo temporal. Revisa: 
+Falha ao substituir modlist. O backup foi preservado.	Could not replace modlist. The backup was preserved.	No se pudo sustituir modlist. Se conservó la copia.
+Analise o perfil e a pasta mods antes de aplicar.	Analyze the profile and mods folder before applying.	Analiza el perfil y la carpeta mods antes de aplicar.
+Os caminhos, perfil ou regras mudaram. Analise novamente.	Paths, profile or rules changed. Analyze again.	Las rutas, el perfil o las reglas cambiaron. Analiza de nuevo.
+Aplicar 	Apply 	Aplicar 
+ blocos por categoria?\n\n	 category blocks?\n\n	 bloques por categoría?\n\n
+ mods mudam de posicao conforme a previa. Confira os motivos de prioridade.\n	 mods change position as shown in the preview. Review the priority reasons.\n	 mods cambian de posición según la vista previa. Revisa los motivos de prioridad.\n
+ separadores antigos serao guardados no backup e retirados da pasta mods.\n	 old separators will be backed up and removed from the mods folder.\n	 separadores antiguos se guardarán en la copia y se retirarán de la carpeta mods.\n
+ perfil(is) nesta pasta terao suas referencias de separadores atualizadas. Os estados sao preservados. Os outros perfis mantem sua sequencia de mods.\n\nMantenha o MO2 fechado. Separadores sao compartilhados pela instancia.	 profile(s) will have separator references updated. Enabled states are preserved. Other profiles keep their mod sequence.\n\nKeep MO2 closed. Separators are shared by the instance.	 perfil(es) actualizarán sus referencias a separadores. Se conserva el estado de activación. Los demás perfiles conservan su secuencia de mods.\n\nMantén MO2 cerrado. La instancia comparte los separadores.
+Revalidando a lista e preparando backup dos separadores...	Rechecking the list and preparing separator backups...	Verificando la lista y preparando copias de los separadores...
+Classificacao mudou: gere outra previa.	Classification changed: generate another preview.	La clasificación cambió: genera otra vista previa.
+Arquivos, perfis ou separadores mudaram. Analise novamente.	Files, profiles or separators changed. Analyze again.	Los archivos, perfiles o separadores cambiaron. Analiza de nuevo.
+Concluido. Reabra o MO2: categorias separadas, sem separadores antigos vazios.	Done. Reopen MO2 to see the organized categories.	Listo. Abre MO2 para ver las categorías organizadas.
+Organizacao aplicada conforme a previa de prioridades.\nBackup das listas e separadores: 	Organization applied as previewed.\nLists and separators backed up at: 	Organización aplicada según la vista previa.\nCopia de listas y separadores: 
+Escolha original-modlist.txt de um backup criado por este programa.	Select original-modlist.txt from a backup created by this program.	Selecciona original-modlist.txt de una copia creada por este programa.
+Caminhos invalidos no backup.	Invalid paths in backup.	Rutas no válidas en la copia.
+Restaurar este perfil?\n	Restore this profile?\n	¿Restaurar este perfil?\n
+\n\nA lista atual tambem sera salva. Separadores criados so serao removidos se vazios e nao usados por outros perfis nesta pasta de perfis.	\n\nThe current list will also be saved. Created separators are removed only if empty and unused by other profiles in this profiles folder.	\n\nTambién se guardará la lista actual. Los separadores creados solo se eliminan si están vacíos y ningún otro perfil de esta carpeta los utiliza.
+Backup restaurado. Reabra o MO2.	Backup restored. Reopen MO2.	Copia restaurada. Abre MO2.
+Lista restaurada. Separadores preservados por uso ou verificacao inconclusiva: 	List restored. Separators kept because they are used or could not be verified: 	Lista restaurada. Separadores conservados por uso o verificación incierta: 
+.\nCopia anterior a restauracao: 	.\nBackup made before restoring: 	.\nCopia anterior a la restauración: 
+Selecione original-modlist.txt de um backup.	Select original-modlist.txt from a backup.	Selecciona original-modlist.txt de una copia.
+Formato de backup nao suportado.	Unsupported backup format.	Formato de copia no compatible.
+Restaurar as listas e os separadores deste backup?\n\nOs perfis registrados no backup serao restaurados, inclusive seus estados ativo/desativado. O estado atual sera guardado em outro backup antes da restauracao.	Restore the lists and separators from this backup?\n\nRecorded profiles will be restored, including enabled states. The current state will be saved in another backup first.	¿Restaurar las listas y separadores de esta copia?\n\nSe restaurarán los perfiles registrados y sus estados de activación. Primero se guardará el estado actual en otra copia.
+Restaurar listas e separadores	Restore lists and separators	Restaurar listas y separadores
+Listas e separadores restaurados. Reabra o MO2.	Lists and separators restored. Reopen MO2.	Listas y separadores restaurados. Abre MO2.
+Restauracao concluida. Copia anterior a restauracao: 	Restore completed. Previous state backed up at: 	Restauración completada. Copia del estado anterior: 
+Log selecionado. Clique em Dependências e atualizações para conferir.	Log selected. Open Diagnostics to inspect it.	Registro seleccionado. Abre Diagnóstico para revisarlo.
+Diagnóstico pronto dentro do programa. Selecione um item para ver a solução e o link.	Diagnostics ready. Select an item to see the action and link.	Diagnóstico listo. Selecciona un elemento para ver la acción y el enlace.
+Consultando a API Nexus GraphQL. Pode levar cerca de 30 segundos...	Checking Nexus GraphQL metadata. This may take about 30 seconds...	Consultando la API Nexus GraphQL. Puede tardar unos 30 segundos...
+Previa pronta. Feche o MO2 e clique em 2. Aplicar com backup.	Preview ready. Close MO2 and select 2. Apply with backup.	Vista previa lista. Cierra MO2 y selecciona 2. Aplicar con copia.
+Análise interrompida. O motivo está na área de diagnóstico.	Analysis stopped. See the report for details.	Análisis interrumpido. Consulta el informe.
+A análise foi interrompida. O mod, o caminho e o motivo estão na área de diagnóstico. Use Copiar relatório para enviar os detalhes.	Analysis stopped. The report shows the mod, path and reason. Copy the report to share details.	Análisis interrumpido. El informe muestra el mod, la ruta y el motivo. Copia el informe para compartir los detalles.
+Aguarde a operacao terminar antes de fechar.	Wait for the operation to finish before closing.	Espera a que termine la operación antes de cerrar.
+Operacao interrompida. Consulte a mensagem.	Operation stopped. See the message.	Operación interrumpida. Consulta el mensaje.
+O organizador ja esta aberto.	The organizer is already open.	El organizador ya está abierto.
+ mods | 	 mods | 	 mods | 
+ separadores por categoria | 	 category separators | 	 separadores por categoría | 
+ arquivos lidos\r\n	 files read\r\n	 archivos leídos\r\n
+MODO: 9 grupos compactos; ordem preservada dentro dos grupos. Outputs por ultimo.\r\n	MODE: 9 compact groups; order preserved within groups. Outputs last.\r\n	MODO: 9 grupos compactos; orden conservado dentro de los grupos. Outputs al final.\r\n
+ mods com posicao alterada na proposta. Estados ativo/desativado preservados.\r\n	 mods change position in the proposal. Enabled states preserved.\r\n	 mods cambian de posición en la propuesta. Estados de activación conservados.\r\n
+ separadores antigos serao retirados e guardados no backup.\r\n	 old separators will be removed and backed up.\r\n	 separadores antiguos se retirarán y guardarán en la copia.\r\n
+ perfil(is) com referencias de separadores a atualizar, mantendo a sequencia dos mods.\r\n	 profile(s) with separator references to update, preserving mod order.\r\n	 perfil(es) con referencias a separadores por actualizar, conservando el orden de mods.\r\n
+\r\n--- CLASSIFICACOES INCONCLUSIVAS ---\r\n	\r\n--- UNCERTAIN CLASSIFICATIONS ---\r\n	\r\n--- CLASIFICACIONES INCIERTAS ---\r\n
+AVISO: 	WARNING: 	AVISO: 
+\r\n--- REGRAS E MOTIVOS DE PRIORIDADE ---\r\n	\r\n--- PRIORITY RULES AND REASONS ---\r\n	\r\n--- REGLAS Y MOTIVOS DE PRIORIDAD ---\r\n
+Nenhuma regra aplicavel ou revisao de prioridades desativada.\r\n	No applicable rule or priority review disabled.\r\n	Sin reglas aplicables o revisión de prioridades desactivada.\r\n
+\r\n--- GRUPOS COMPACTOS ---\r\n	\r\n--- COMPACT GROUPS ---\r\n	\r\n--- GRUPOS COMPACTOS ---\r\n
+[ATIVO] 	[ENABLED] 	[ACTIVO] 
+[DESATIVADO] 	[DISABLED] 	[DESACTIVADO] 
+[OFICIAL] 	[OFFICIAL] 	[OFICIAL] 
+\r\n--- CLASSIFICACAO: REGRA OU EVIDENCIA ---\r\n	\r\n--- CLASSIFICATION: RULE OR EVIDENCE ---\r\n	\r\n--- CLASIFICACIÓN: REGLA O EVIDENCIA ---\r\n
+\r\n--- CONFLITOS DE ARQUIVOS SOLTOS (MODS ATIVOS) ---\r\n	\r\n--- LOOSE FILE CONFLICTS (ENABLED MODS) ---\r\n	\r\n--- CONFLICTOS DE ARCHIVOS SUELTOS (MODS ACTIVOS) ---\r\n
+ caminhos em conflito. Vencedor NA PROPOSTA, nao garantia de compatibilidade.\r\n	 conflicting paths. Winner IN THE PROPOSAL, not a compatibility guarantee.\r\n	 rutas en conflicto. Ganador EN LA PROPUESTA, no garantía de compatibilidad.\r\n
+Relatorio visual limitado aos primeiros 500 caminhos. A analise considerou todos.\r\n	Report limited to the first 500 paths. All were analyzed.\r\n	Informe limitado a las primeras 500 rutas. Todas fueron analizadas.\r\n
+\r\nArquivo: 	\r\nFile: 	\r\nArchivo: 
+\r\nVencia: 	\r\nPrevious winner: 	\r\nGanador anterior: 
+\r\nVence na proposta: 	\r\nProposed winner: 	\r\nGanador propuesto: 
+\r\nSobrescreve: 	\r\nOverrides: 	\r\nSobrescribe: 
+\r\n--- FONTES ONLINE (INFORMATIVAS; NAO DEFINEM PRIORIDADE) ---\r\n	\r\n--- ONLINE SOURCES (INFORMATION ONLY; NOT PRIORITY RULES) ---\r\n	\r\n--- FUENTES EN LÍNEA (INFORMATIVAS; NO DEFINEN PRIORIDADES) ---\r\n
+Consulta online desativada. Classificacao e prioridades lidas localmente.	Online lookup disabled. Classification and priorities read locally.	Consulta en línea desactivada. Clasificación y prioridades locales.
+Requisitos e base	Requirements and foundations	Requisitos y base
+Texturas	Textures	Texturas
+Graficos	Graphics	Gráficos
+Gameplay, magias, armas e armaduras	Gameplay, magic, weapons and armor	Jugabilidad, magia, armas y armaduras
+Quests	Quests	Misiones
+Interface	Interface	Interfaz
+Dublagens	Voice translations	Doblajes
+Legendas	Text translations	Traducciones de texto
+Prioridades finais	Final overrides	Prioridades finales
+INCONCLUSIVOS - definir categoria	UNCERTAIN - choose category	INCIERTOS - elegir categoría
+Requisitos e bibliotecas	Requirements and libraries	Requisitos y bibliotecas
+Texturas e modelos	Textures and models	Texturas y modelos
+Ambiente e iluminacao	Environment and lighting	Ambiente e iluminación
+Cidades	Cities	Ciudades
+Missoes e aventuras	Quests and adventures	Misiones y aventuras
+Gameplay e economia	Gameplay and economy	Jugabilidad y economía
+Magia	Magic	Magia
+Armas e equipamentos	Weapons and equipment	Armas y equipo
+Combate	Combat	Combate
+Animacoes	Animations	Animaciones
+Camera e movimentacao	Camera and movement	Cámara y movimiento
+Audio	Audio	Audio
+NPCs e personagem	NPCs and character	NPCs y personaje
+Traducoes e legendas	Translations and subtitles	Traducciones y subtítulos
+Saidas de ferramentas	Tool outputs	Outputs de herramientas
+Revisar - nao classificado	Review - unclassified	Revisar - sin clasificar
+Base e correcoes	Foundations and fixes	Base y correcciones
+Salvar diagnostico completo para compartilhar	Save diagnostics to share	Guardar diagnóstico para compartir
+Relatorio TXT salvo. Inclui caminhos locais, lista de mods e logs. Revise antes de compartilhar.	TXT report saved. Includes local paths, mod list and logs. Review before sharing.	Informe TXT guardado. Incluye rutas locales, mods y registros. Revísalo antes de compartirlo.
+Nenhum item corresponde ao filtro. Isso nao comprova que a instalacao esta livre de erros.	No matching items. This does not prove the installation is error-free.	No hay coincidencias. Esto no demuestra que la instalación esté libre de errores.
+Selecione um item para ver a evidencia, a acao recomendada e o link.	Select an item for evidence, recommended action and link.	Selecciona un elemento para ver evidencias, acciones y enlaces.
+Acao local: confira este item no MO2.	Local action: check this item in MO2.	Acción local: revisa este elemento en MO2.
+Destino do link: 	Link destination: 	Destino del enlace: 
+Sem link para este item	No link for this item	Sin enlace para este elemento
+Pesquisar mod, DLL, requisito ou mensagem...	Search mod, DLL, requirement or message...	Buscar mod, DLL, requisito o mensaje...
+Todos os resultados	All results	Todos los resultados
+Pendências e erros	Issues and errors	Pendientes y errores
+Catálogo dos mods	Mod catalog	Catálogo de mods
+Situação / evidência	Status / evidence	Estado / evidencia
+Mod ou componente	Mod or component	Mod o componente
+Abrir página da solução	Open solution page	Abrir página de solución
+Copiar detalhes	Copy details	Copiar detalles
+Salvar relatório TXT	Save TXT report	Guardar informe TXT
+Verificar novamente	Check again	Revisar de nuevo
+Confira as evidências antes de instalar. Os links abrem as páginas de origem.	Check the evidence before installing. Links open the source pages.	Revisa las evidencias antes de instalar. Los enlaces abren las páginas de origen.
+O Windows nao conseguiu abrir o link. Copie os detalhes e abra o endereco no navegador.	Windows could not open the link. Copy the details and open the address in your browser.	Windows no pudo abrir el enlace. Copia los detalles y abre la dirección en tu navegador.
+ plugins lidos  |  	 plugins read  |  	 plugins leídos  |  
+ pendências / registros a conferir\r\n	 issues / entries to review\r\n	 pendientes / registros por revisar\r\n
+Idioma alterado. Gere uma nova prévia antes de aplicar.	Language changed. Generate a new preview before applying.	Idioma cambiado. Genera una nueva vista previa antes de aplicar.
+Diagnóstico e soluções	Diagnostics and solutions	Diagnóstico y soluciones
+Há mods sem categoria. Esta prévia muda apenas os separadores e mantém a ordem dos mods.\n\n	Some mods lack a category. This preview changes only separators and keeps the mod order.\n\n	Hay mods sin categoría. Esta vista previa cambia solo los separadores y conserva el orden de los mods.\n\n
+Prévia pronta com a ordem original. Feche o MO2 para aplicar os separadores.	Preview ready with original order. Close MO2 to apply the separators.	Vista previa lista con el orden original. Cierra MO2 para aplicar los separadores.
+Selecione a pasta mods e gere outra prévia para aplicar.	Select the mods folder and generate a new preview before applying.	Selecciona la carpeta mods y genera otra vista previa para aplicar.
+Para atribuir categorias manualmente, use Caminhos e opções > Editar categorias.\r\n	To assign categories manually, use Paths and options > Edit categories.\r\n	Para asignar categorías manualmente, usa Rutas y opciones > Editar categorías.\r\n
+1. Confira o perfil e a pasta mods e gere a previa.\n2. Feche o Mod Organizer 2 e clique em Aplicar com backup.\n3. Para desfazer, use Restaurar backup.\n\nSe algum mod ficar sem categoria, a previa mantém a ordem original e permite aplicar os separadores.\nA consulta Nexus GraphQL e opcional e mostra nome, resumo e versao publicada.	1. Check the profile and mods folder, then generate a preview.\n2. Close Mod Organizer 2 and click Apply with backup.\n3. To undo, use Restore backup.\n\nIf any mod lacks a category, the preview keeps the original order and lets you apply separators.\nThe optional Nexus GraphQL lookup shows the name, summary and published version.	1. Comprueba el perfil y la carpeta mods y genera una vista previa.\n2. Cierra Mod Organizer 2 y pulsa Aplicar con copia.\n3. Para deshacer, usa Restaurar copia.\n\nSi hay un mod sin categoría, la vista previa conserva el orden original y permite aplicar los separadores.\nLa consulta opcional a Nexus GraphQL muestra el nombre, el resumen y la versión publicada.
+\n\nQuer salvar as licenças das dependências?	\n\nSave dependency licenses?	\n\n¿Quieres guardar las licencias de las dependencias?

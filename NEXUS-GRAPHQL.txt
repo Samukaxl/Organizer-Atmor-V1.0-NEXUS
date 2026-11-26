@@ -1,0 +1,30 @@
+Organizer Atmor 1.5.2 — Nexus GraphQL migration
+
+Endpoint: https://api.nexusmods.com/v2/graphql
+Schema reference: https://graphql.nexusmods.com/
+Implementation: online.hpp
+
+Query:
+query AtmorMod($gameId: ID!, $modId: ID!) {
+  mod(gameId: $gameId, modId: $modId) { name summary version }
+}
+
+Optional and unchecked by default. The user enables it before analysis.
+Uses gameName and modid from local MO2 meta.ini. Sends only the corresponding
+numeric game/mod identifiers as GraphQL variables. No account credentials.
+Does not upload local filenames, mod lists, logs or file contents.
+No HTML retrieval, scraping, redirects, downloads or HTML fallback.
+
+24-hour successful-response cache in a separate graphql-v1 namespace.
+Old HTML metadata cache is ignored. Sequential calls, maximum 40 requests
+per analysis, with a 30-second scheduling budget and per-request timeouts.
+Stops scheduling on HTTP 401/403/429 or GraphQL errors. Cached results remain
+usable. API errors preserve local organization and are shown in the report.
+The published version is informational; it does not establish runtime support.
+
+JSON parser: nlohmann/json v3.11.3, MIT. Source and license bundled in
+vendor/nlohmann/. No external package install needed to compile.
+
+Validation: automated regression suites; a live unauthenticated SkyUI query
+returned HTTP 200. The Windows executable was cross-compiled. Interactive
+Windows GUI and Windows-specific HTTP transport require testing on Windows.

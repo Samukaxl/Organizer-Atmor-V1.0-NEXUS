@@ -1,0 +1,25 @@
+1 24 "app.manifest"
+201 RCDATA "regras.tsv"
+202 RCDATA "regras-modelo.tsv"
+203 RCDATA "LICENCAS.txt"
+1 VERSIONINFO
+FILEVERSION 1,5,2,0
+PRODUCTVERSION 1,5,2,0
+FILEOS 0x40004L
+FILETYPE 0x1L
+BEGIN
+ BLOCK "StringFileInfo"
+ BEGIN
+  BLOCK "041604b0"
+  BEGIN
+   VALUE "FileDescription", "Organizer Atmor - Painel esquerdo do MO2\0"
+   VALUE "FileVersion", "1.5.2\0"
+   VALUE "ProductName", "Organizer Atmor\0"
+   VALUE "ProductVersion", "1.5.2\0"
+  END
+ END
+ BLOCK "VarFileInfo"
+ BEGIN
+  VALUE "Translation", 0x0416, 1200
+ END
+END

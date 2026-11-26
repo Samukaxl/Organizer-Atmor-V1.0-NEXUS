@@ -1,0 +1,13 @@
+# Organizer Atmor — categorias personalizadas
+# Use o número, uma tabulação e o nome exato da pasta do mod.
+# Exemplo: 12	Meu mod de interface
+# 1 = Texturas e modelos
+# 2 ou 13 = Gráficos e personagens
+# 5, 6, 7, 8, 9, 10 ou 11 = Gameplay, magia, equipamentos, combate, animações, câmera, áudio
+# 3 ou 4 = Quests e cidades
+# 12 = Interface
+# 15 = Dublagens
+# 14 = Legendas / traduções
+# 16 = Prioridades finais (saídas geradas)
+# 17 = Inconclusivo; mantém a ordem original
+# Com agrupamento completo, Nemesis/Pandora Output fica por último.
